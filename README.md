@@ -1,19 +1,24 @@
-<h1 align="center">Hi 👋, I'm Kronnosy</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+# 💫 About Me:
+🔭 I’m currently working on ArsenicNetwork<br><br>🌱 I’m currently learning PHP - JavaScript - C++<br><br>👨‍💻 All of my projects are available at dev.kronnosy.xyz<br><br>📫 How to reach me Discord : Kronnosy
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kronnosy&label=Profile%20views&color=0e75b6&style=flat-square" alt="kronnosy" /> </p>
 
-- 🔭 I’m currently working on **ArsenicNetwork**
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCDAePk0BJFI9F9iuxndwcxQ) 
 
-- 🌱 I’m currently learning **PHP - JavaScript - C++**
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kronnosy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kronnosy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kronnosy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 👨‍💻 All of my projects are available at [dev.kronnosy.xyz](dev.kronnosy.xyz)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kronnosy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **Discord : Kronnosy**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=Kronnosy&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kronnosy&show_icons=true&theme=dark&locale=en&layout=compact" alt="kronnosy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kronnosy&show_icons=true&theme=dark&locale=en" alt="kronnosy" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
