@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **ArsenicNetwork**<br><br>🌱 I’m currently learning **PHP - JavaScript - C++**<br><br>👨‍💻 All of my projects are available at **<a href="url">dev.kronnosy.xyz</a>**<br><br>📫 How to reach me **Discord : Kronnosy**
+🔭 I’m currently working on **Sun Games**<br><br>🌱 I’m currently learning **PHP - JavaScript - C++**<br><br>👨‍💻 All of my projects are available at **<a href="url">dev.kronnosy.xyz</a>**<br><br>📫 How to reach me **Discord : Kronnosy**
 
 
 ## 🌐 Socials:
