@@ -13,21 +13,100 @@ Hi there! I'm Kronnosy, a software developer who loves building open-source econ
 - 🧾 Enhancing the interface experience for `Kronshop` with FormAPI.
 - 📚 Reading up on data structures and in-game economy balancing.
 
-## Featured Projects
-- [`Kronnomy`](https://github.com/Kronnosy/Kronnomy): Powerful economy plugin for PocketMine-MP servers.
-- [`Kronshop`](https://github.com/Kronnosy/Kronshop): Market system that allows players to easily buy and sell items.
+## Projects
+
+### 🏦 [Kronnomy](https://github.com/Kronnosy/Kronnomy)
+**Powerful economy plugin for PocketMine-MP servers**
+
+A lightweight, high-performance economy plugin built for stability and scalability. Features fast caching, SQLite support, and all essential commands for managing player balances, transactions, and overall economy control.
+
+**Key Features:**
+- 💰 Complete economy system with balance management
+- 💾 Built-in SQLite database (no external database required)
+- 🌍 Multi-language support
+- 📊 Top balance leaderboard
+- ⚡ High performance with caching system
+- 🔒 Permission-based access control
+
+**Tech Stack:** `PHP` · `SQLite` · `PocketMine-MP`
+
+---
+
+### 🛒 [Kronshop](https://github.com/Kronnosy/Kronshop)
+**Advanced marketplace system for Minecraft servers**
+
+An advanced marketplace system plugin that allows players to easily buy and sell in-game items. Features user-friendly form interfaces, category system, and secure transaction handling.
+
+**Key Features:**
+- 🛒 Easy buy & sell with form interface
+- 💰 Kronnomy and BedrockEconomy support
+- 📊 Category system (blocks, resources, tools, armor, food, etc.)
+- 🔒 Secure transactions with lock system
+- 🌍 Multi-language support
+- ⚙️ Highly customizable settings
+
+**Tech Stack:** `PHP` · `FormAPI` · `PocketMine-MP`
+
+---
+
+### 🌟 [DynamicMOTD](https://github.com/Kronnosy/DynamicMOTD)
+**Dynamic MOTD updater for PocketMine-MP servers**
+
+A plugin that enhances the player experience by dynamically updating the server MOTD (Message of the Day) at specified intervals, creating an engaging and lively environment.
+
+**Key Features:**
+- 🔄 Dynamic MOTD updates with customizable intervals
+- 📝 Support for placeholders (`{ONLINE_PLAYERS}`, `{MAX_PLAYERS}`, `{VERSION}`)
+- 🎨 Color code support
+- ⚙️ Fully configurable messages
+
+**Tech Stack:** `PHP` · `PocketMine-MP`
+
+---
+
+### 🛡️ [SkinGuard](https://github.com/Kronnosy/SkinGuard)
+**Skin protection plugin for PocketMine-MP servers**
+
+A plugin that ensures fair play by preventing players from using invalid skins and 4D skins, maintaining a uniform and fair gaming experience.
+
+**Key Features:**
+- 🚫 Invalid skin protection
+- 🛡️ 4D skin blocker
+- ⚖️ Fair play enforcement
+
+**Tech Stack:** `PHP` · `PocketMine-MP`
+
+---
 
 ## Technologies & Tools
-- Languages & Platforms: `PHP`, `TypeScript`, `JavaScript`, `YAML`, `JSON`
-- Game Infrastructure: `PocketMine-MP`, `Minecraft: Bedrock`
-- Tools: `Git`, `GitHub Actions`, `Composer`, `Node.js`
+
+### Languages & Platforms
+`PHP` · `TypeScript` · `JavaScript` · `YAML` · `JSON`
+
+### Game Infrastructure
+`PocketMine-MP` · `Minecraft: Bedrock`
+
+### Tools & Services
+`Git` · `GitHub Actions` · `Composer` · `Node.js` · `SQLite`
 
 ## Stats
-![Kronnosy GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kronnosy&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kronnosy&layout=compact&theme=github_dark)
+
+![Kronnosy GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kronnosy&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kronnosy&layout=compact&theme=github_dark&hide_border=true)
 
 ## Let's Collaborate!
+
 - 🧩 I'd love to hear your ideas on open-source plugins, in-game economy systems, and community tools.
-- 📫 You can reach me through GitHub Issues or discussions.
+- 🤝 Contributions, suggestions, and feedback are always welcome!
+- 📫 You can reach me through GitHub Issues or discussions on my repositories.
+
+## Connect With Me
+
+- 💻 [GitHub](https://github.com/Kronnosy)
+- 📦 Check out my [repositories](https://github.com/Kronnosy?tab=repositories)
+
+---
 
 Thanks for visiting! 🎮
+
+*"Building tools that make gaming communities thrive."*
