@@ -33,7 +33,7 @@ A lightweight, high-performance economy plugin built for stability and scalabili
 ---
 
 ### 🛒 [Kronshop](https://github.com/Kronnosy/Kronshop)
-**Advanced marketplace system for Minecraft servers**
+**Advanced marketplace system for PocketMine-MP servers**
 
 An advanced marketplace system plugin that allows players to easily buy and sell in-game items. Features user-friendly form interfaces, category system, and secure transaction handling.
 
@@ -49,16 +49,19 @@ An advanced marketplace system plugin that allows players to easily buy and sell
 
 ---
 
-### 🌟 [DynamicMOTD](https://github.com/Kronnosy/DynamicMOTD)
-**Dynamic MOTD updater for PocketMine-MP servers**
+### 🌟 [Kronvel](https://github.com/Kronnosy/Kronvel)
+**Modern EXP + leveling system for PocketMine-MP servers**
 
-A plugin that enhances the player experience by dynamically updating the server MOTD (Message of the Day) at specified intervals, creating an engaging and lively environment.
+A lightweight EXP and leveling plugin that tracks gameplay actions like block breaking and mob kills, applies rank-based multipliers, and stores player progress in SQLite. Fully customizable through config and language files.
 
 **Key Features:**
-- 🔄 Dynamic MOTD updates with customizable intervals
-- 📝 Support for placeholders (`{ONLINE_PLAYERS}`, `{MAX_PLAYERS}`, `{VERSION}`)
-- 🎨 Color code support
-- ⚙️ Fully configurable messages
+🧱 Configurable EXP Sources — Define EXP rewards per block and mob in YAML
+🎖️ Rank-Based Multipliers — Permission-driven EXP boosts with safety clamps
+⚡ Real-Time Feedback — Action bar EXP popups and animated level-up titles
+🛠️ Admin Tools — /kexp command suite for adding, setting, and viewing EXP
+🌐 Full Localization — Every message customizable via lang.yml
+💾 SQLite Storage — Automatic and safe player level/EXP persistence
+🔌 Public API — Easy integration for other plugins via KronvelAPI
 
 **Tech Stack:** `PHP` · `PocketMine-MP`
 
