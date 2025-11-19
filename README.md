@@ -55,13 +55,13 @@ An advanced marketplace system plugin that allows players to easily buy and sell
 A lightweight EXP and leveling plugin that tracks gameplay actions like block breaking and mob kills, applies rank-based multipliers, and stores player progress in SQLite. Fully customizable through config and language files.
 
 **Key Features:**
-🧱 Configurable EXP Sources — Define EXP rewards per block and mob in YAML
-🎖️ Rank-Based Multipliers — Permission-driven EXP boosts with safety clamps
-⚡ Real-Time Feedback — Action bar EXP popups and animated level-up titles
-🛠️ Admin Tools — /kexp command suite for adding, setting, and viewing EXP
-🌐 Full Localization — Every message customizable via lang.yml
-💾 SQLite Storage — Automatic and safe player level/EXP persistence
-🔌 Public API — Easy integration for other plugins via KronvelAPI
+- 🧱 Configurable EXP Sources — Define EXP rewards per block and mob in YAML
+- 🎖️ Rank-Based Multipliers — Permission-driven EXP boosts with safety clamps
+- ⚡ Real-Time Feedback — Action bar EXP popups and animated level-up titles
+- 🛠️ Admin Tools — /kexp command suite for adding, setting, and viewing EXP
+- 🌐 Full Localization — Every message customizable via lang.yml
+- 💾 SQLite Storage — Automatic and safe player level/EXP persistence
+- 🔌 Public API — Easy integration for other plugins via KronvelAPI
 
 **Tech Stack:** `PHP` · `PocketMine-MP`
 
